@@ -18,4 +18,10 @@ we have gone for a secure approach (CloudFront with Origin Access Control), our 
 CloudFront URL: d1umvvygp0vz6c.cloudfront.net
  and via https://d1umvvygp0vz6c.cloudfront.net/index.html  both these urls are comppletely accessible
 
-S3 Bucket Created: 
+i have succesfully added the screenshots for all the points in rubric 
+please find them attached in the screenshots folder in the repo.
+
+Here is the direct endpoint url for out s3 bucket:
+
+http://dhruv-staticwebsite1.s3-website-us-east-1.amazonaws.com
+(Visiting this URL returns a 403 Forbidden error because the bucket is secured with an OAC policy, ensuring traffic only flows through cloudfront)
