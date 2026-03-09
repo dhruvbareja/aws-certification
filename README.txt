@@ -18,3 +18,4 @@ we have gone for a secure approach (CloudFront with Origin Access Control), our 
 CloudFront URL: d1umvvygp0vz6c.cloudfront.net
  and via https://d1umvvygp0vz6c.cloudfront.net/index.html  both these urls are comppletely accessible
 
+S3 Bucket Created: 
